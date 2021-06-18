@@ -1,6 +1,9 @@
 # Simple-IRIS-Flowers-Prediction-webAPP-streamlit
 
-![Iris Flowers](image/iris.jpeg?raw=True "Iris")
+<!-- ![Iris Flowers](image/iris.jpeg?raw=True "Iris") -->
+<p align=center>
+  <img src="iris.gif?raw=True" />
+</p>
 
 Cette Application permet la detection des differentes types d'iris(fleurs) en se basant sur 04 criteres:
 + La largeur du sepale
@@ -17,4 +20,4 @@ Le travail est basé cette [videos](https://www.youtube.com/watch?v=8M20LyCZDOY&
 
 Pour executer l'application
 ***
-`streamlit run ris-ml-app.py`
+`streamlit run iris-ml-app.py`
